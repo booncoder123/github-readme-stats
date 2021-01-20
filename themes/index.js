@@ -257,11 +257,11 @@ const themes = {
     text_color: "ffffff",
     bg_color: "36393f",
   },
-  kacho_ga: {
+  Harvard: {
     title_color: "bf4a3f",
     icon_color: "a64833",
     text_color: "d9c8a9",
-    bg_color: "402b23",
+    bg_color: "a51c30",
   },
   Harvard: {
     title_color: "bf4a3f",
